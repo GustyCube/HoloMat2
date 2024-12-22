@@ -32,7 +32,6 @@ BUTTON_HEIGHT = 80  # Increased button height
 
 def map_coords(x, y):
     return x, y 
-
 class Button:
     def __init__(self, rect, label):
         self.rect = pygame.Rect(rect)
