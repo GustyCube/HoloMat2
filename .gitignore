@@ -1,0 +1,8 @@
+.venv/
+apps/__pycache__/
+apps/app_1/__pycache__/
+apps/app_2/__pycache__/
+apps/app_3/__pycache__/
+apps/app_4/__pycache__/
+apps/app_5/__pycache__/
+apps/app_6/__pycache__/
